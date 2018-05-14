@@ -1,4 +1,1 @@
-2016-geocamp
-============
-
-Web del geocamp 2016
+# Geocamp Barcelona 2016
